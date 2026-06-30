@@ -1,0 +1,1 @@
+const e={draft:"未提交",submitted:"已提交",under_review:"审核中",approved:"审核通过",rejected:"审核驳回"},t={draft:"草稿",submitted:"正在审核",under_review:"正在审核",approved:"审核通过",rejected:"审核驳回",published:"已展示"};export{e as r,t as w};
